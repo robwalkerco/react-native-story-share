@@ -8,7 +8,6 @@
 
 import Foundation
 import UIKit
-import SCSDKCreativeKit
 
 @objc(RNStoryShare)
 class RNStoryShare: NSObject{
